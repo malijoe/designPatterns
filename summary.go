@@ -62,7 +62,7 @@ Behavioral:
     Observers:
         Allows notifications of changes/happenings in a component
     State:
-        We model systems by havin one of possible states and transitions between these states
+        We model systems by having one of possible states and transitions between these states
         Such a system is called a state machine
         Special frameworks exists to orchestrate state machines
     Strategy & Template Method
@@ -70,4 +70,4 @@ Behavioral:
         Strategy uses composition; Template Method doesn't
     Visitor:
         Allows non-intrusive addition of functionality to hierarchies
- */
+*/
