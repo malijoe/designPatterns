@@ -1,0 +1,3 @@
+baseURL = 'https://malijoe/designPatterns'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
